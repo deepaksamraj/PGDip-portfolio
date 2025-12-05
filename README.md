@@ -141,7 +141,3 @@ Senior Infrastructure Engineer \| Hybrid Cloud, On‑Prem & Automation Specialis
 LinkedIn: [[linkedin.com/in/deepaksam](https://www.linkedin.com/in/deepaksam/)](#)  
 
 ---
-
-## 📜 License
-MIT License – simple, permissive, and recruiter‑friendly.  
-Others may view and share this index with attribution.
