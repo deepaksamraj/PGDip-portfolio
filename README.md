@@ -8,22 +8,12 @@
   <img src="https://img.shields.io/badge/Hybrid%20Cloud-VMWare%20%26%20DataCenter-purple?style=for-the-badge&logo=vmware" />
 </p>
 
-<h1 align="center">🚀 Deepak Devaraj – PGDip Coursework Portfolio</h1>
-
-<p align="center">
-  <i>Showcasing private postgraduate coursework in Infrastructure as Code, Networking, Linux, and Automation</i>
-</p>
-
----
-
-# 📚 Portfolio Index – PGDip Coursework (Private Repos)
+<h1 align="center">🚀 PGDip Computing in Cloud Technologies
+ –  Coursework Portfolio</h1>
 
 This repository serves as a **public showcase** of my Postgraduate Diploma coursework and projects in *Infrastructure as Code, Networking, Linux, and Automation*.  
-👉 **Note:** The actual project repositories remain private. This index provides an overview of topics and skills demonstrated.  
-If you’d like to review the full code or documentation, please reach out for permission.
 
 ---
-
 ## 🌟 Highlights
 
 - **Firewall Monitoring Tool (Python Project1)**  
@@ -72,9 +62,9 @@ If you’d like to review the full code or documentation, please reach out for p
 
 ---
 
-## 📘 Contents Definition
+## 📘 Contents
 
-This repo acts as a **portfolio index** of my PGDip coursework:  
+
 - **Code samples**: Python, PowerShell, Linux shell scripts, Ansible playbooks  
 - **Infrastructure design**: Hybrid cloud, server hardware, networking layers, firewall configs  
 - **Automation**: IaC principles, DSC, Ansible, Python automation  
@@ -82,7 +72,7 @@ This repo acts as a **portfolio index** of my PGDip coursework:
 
 ---
 
-## 📂 Full Folder Tree (Collapsible)
+## 📂 Full List of Topics in order (Collapsible)
 
 <details>
 <summary>Click to expand</summary>
