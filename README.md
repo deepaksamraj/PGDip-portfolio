@@ -138,7 +138,7 @@ The repositories listed above are **private**.
 ## 👨‍💻 Author
 **Deepak Devaraj**  
 Senior Infrastructure Engineer \| Hybrid Cloud, On‑Prem & Automation Specialist  
-LinkedIn: [linkedin.com/in/deepaksam/](#)  
+LinkedIn: [[linkedin.com/in/deepaksam](https://www.linkedin.com/in/deepaksam/)](#)  
 
 ---
 
