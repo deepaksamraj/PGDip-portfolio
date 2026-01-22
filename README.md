@@ -58,7 +58,7 @@ This repository serves as a **public showcase** of my Postgraduate Diploma cours
 
 ## 🛠 Tech Stack
 
-`Python` • `Ansible` • `Linux` • `PowerShell` • `VMWare` • `Hybrid Cloud` • `Networking (LAN/WAN, VLAN, Firewall)` • `GNS3` • `GitHub`
+`Python` • `Linux` • `Flask` • `PowerShell` • `VMWare` • `Hybrid Cloud` • `Networking (LAN/WAN, VLAN, Firewall)` • `GNS3` • `GitHub` • `Ansible` •
 
 ---
 
